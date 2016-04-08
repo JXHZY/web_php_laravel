@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/laravelfirst":{"type":null,"mount_options":[],"guestpath":"/home/vagrant/laravelfirst","hostpath":"/Users/YingZhou/VirtualSystem/laravel/laravelFirst","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/YingZhou/VirtualSystem/laravel/laravelFirst","disabled":false,"__vagrantfile":true}}}
